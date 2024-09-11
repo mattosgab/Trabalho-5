@@ -1,0 +1,22 @@
+Código de Estrutura de Repetição 
+# Exemplo de estrutura de repetição (for)
+for i in range(1, 6):
+    print(f"Número: {i}")
+Código de Estrutura de Tomada de decisão
+# Exemplo de estrutura de tomada de decisão (if-elif-else)
+numero = int(input("Digite um número: "))
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+Código de execução da estrtura de repetição:
+Número: 1
+Número: 2
+Número: 3
+Número: 4
+Número: 5
+Código de execução da estrutura de tomada de decisão 
+O número é positivo.
